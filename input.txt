@@ -1,0 +1,17 @@
+NODES: A B C D
+
+ROUTES:
+A B 10.0 2.0 2
+A C 15.0 3.0 1
+B C 8.0 1.5 2
+C D 12.0 2.5 1
+
+INACTIVE:
+C D 4
+A C 2
+
+REQUESTS:
+A B 10
+A C 3
+B C 7
+C D 5

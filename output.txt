@@ -1,0 +1,16 @@
+Request: A -> B (10 passengers)
+Path used: A -> B
+Fare: 15
+
+Request: A -> C (3 passengers)
+Path used: A -> C
+Fare: 18
+
+Request: B -> C (7 passengers)
+Path used: B -> C
+Fare: 9.5
+
+Request: C -> D (5 passengers)
+Path used: C -> D
+Fare: 18.125
+
